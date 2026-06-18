@@ -29,10 +29,6 @@ Database: MongoDB (for user data & analysis logs)
 🚀 How to Install & Use
 
 1️⃣ Clone the Repository
-bash
-
-git clone https://github.com/KowsikaMuralikrishnan/AI-Based-Code-Quality-Analyzer.git
-cd AI-Based-Code-Quality-Analyzer
 
 2️⃣ Install Dependencies
 npm install
