@@ -31,7 +31,7 @@ Database: MongoDB (for user data & analysis logs)
 1️⃣ Clone the Repository
 bash
 
-git clone https://github.com/Resha-05-hub/AI-Based-Code-Quality-Analyzer.git
+git clone https://github.com/KowsikaMuralikrishnan/AI-Based-Code-Quality-Analyzer.git
 cd AI-Based-Code-Quality-Analyzer
 
 2️⃣ Install Dependencies
@@ -47,4 +47,4 @@ Click Load Unpacked and select the extension folder.
 The AI-based analyzer will now run inside LeetCode’s editor! 🚀
 
 📢 Contact & Support
-📩 Resha-05-hub – Let’s connect on LinkedIn [https://www.linkedin.com/in/rasmi-resha-a-b79942299/]
+📩KowsikaMuralikrishnan – Let’s connect on LinkedIn [[https://www.linkedin.com/in/rasmi-resha-a-b79942299/](https://www.linkedin.com/in/kowsika-muralikrishnan-733b4b299/)]
